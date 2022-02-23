@@ -2,6 +2,7 @@
 - 👀 I’m interested in Backend dev
 - 🌱 I’m currently learning Python Django
 - 📫 How to reach me praveen.naik@antino.io
+takataka
 
 <!---
 praveen-naik-ant/praveen-naik-ant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
